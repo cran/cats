@@ -1,0 +1,11 @@
+be5eaf863b9364557800f9d4a5e85cdc *DESCRIPTION
+66bbeb0dccc105499e2402d71cf4d2e7 *LICENSE
+b87e2c958e1022cf17d16efc290de2f0 *NAMESPACE
+b8a1b3913c850caa9c455b8944397d04 *R/globals.R
+3e0b7eb82837ccb3ea8590e056296d3f *R/make_decision_trial.R
+8822266717eb91ec3a809b84fbe6a936 *R/simulate_trial.R
+5ffc8293c08ef35b390d83b5ff541308 *R/trial_ocs.R
+39853a5f0b6cb35cf60ac2e5618ca58f *README.md
+c93f337b319a68c92db8828f47d234f2 *man/make_decision_trial.Rd
+372e2be9bbfba2b942d1b7d3b6727551 *man/simulate_trial.Rd
+76047163a87ba40f87b94c290e841911 *man/trial_ocs.Rd
